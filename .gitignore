@@ -1,2 +1,1 @@
-# Documentation
-PDTG_Design_Doc.md
+Nothing should be ignored based on the provided file changes. The only added file is a markdown document (PATG_Design_Doc.md), which is a source/config file and should not be ignored.
